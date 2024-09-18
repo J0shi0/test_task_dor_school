@@ -1,0 +1,7 @@
+# Logs and databases #
+######################
+*.sqlite3
+
+# Enviorment variabels #
+######################
+.env
